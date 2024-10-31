@@ -4,6 +4,6 @@ pandas
 numpy 
 matplotlib.pyplot 
 plotly.graph_objs 
-from datetime import datetime, timedelta
+datetime
 requests
 matplotlib.dates 
