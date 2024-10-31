@@ -1,0 +1,9 @@
+yfinance
+streamlit 
+pandas
+numpy 
+matplotlib.pyplot 
+plotly.graph_objs 
+from datetime import datetime, timedelta
+requests
+matplotlib.dates 
