@@ -6,4 +6,4 @@ matplotlib.pyplot
 plotly.graph_objs 
 datetime
 requests
-matplotlib.dates 
+matplotlib.dates
